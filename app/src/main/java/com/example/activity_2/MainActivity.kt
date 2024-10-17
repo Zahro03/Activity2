@@ -39,6 +39,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 @Preview(showBackground = true)
+@Composable
 fun BasicCompose(modifier: Modifier = Modifier){
 
     Column (horizontalAlignment =  Alignment.CenterHorizontally,
