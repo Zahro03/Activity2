@@ -90,6 +90,8 @@ fun BasicCompose(modifier: Modifier = Modifier){
     }
 }
 
+//zahro galak
+
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
